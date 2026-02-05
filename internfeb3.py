@@ -1,3 +1,4 @@
+"""class and object"""
 class Instagram:
     def __init__(self, title, description, creator_name, location):  
         self.title = title
